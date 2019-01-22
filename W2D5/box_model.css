@@ -40,3 +40,8 @@ div {
   height: 600px;
   background: orange;
 }
+
+.inline {
+  display: inline;
+  background: red;
+}
